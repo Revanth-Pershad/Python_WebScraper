@@ -1,0 +1,3488 @@
+<html>
+ <head>
+  <link href="css/uni-form.css" media="screen" rel="stylesheet"/>
+  <link href="css/default.uni-form.css" media="screen" rel="stylesheet" title="Default Style"/>
+  <link href="css/demo.css" media="screen" rel="stylesheet"/>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38054582-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+ </head>
+ <body>
+  <center>
+   <table cellpadding="20px">
+    <tr>
+     <td>
+      <a href="http://cvr.ac.in/" title="CVR">
+       <img alt="" class="uniForm2" src="images/jpglogo2.jpg" width="98%"/>
+      </a>
+     </td>
+    </tr>
+   </table>
+  </center>
+  <center>
+   <h1>
+    <u>
+     Available Results
+    </u>
+   </h1>
+   <form action="#" class="uniForm" method="post">
+    <a href="/cvrresults1/result.php?resid=bt12e46x060432NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B21) held in April-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060431NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B20) held in April-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060430NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B21) held in April-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060429NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B20) held in April-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060428NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B19) held in April-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060414NF" style="display:block">
+     M.Tech. I YEAR I SEM Regular Examinations  (R22/B22) held in April-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060415NF" style="display:block">
+     pre-PHD Course Work Main Examinations  (R22/B22) held in April-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060413NF" style="display:block">
+     B.Tech II YEAR I SEM Regular Examinations  (R18/B21) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060427NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B20) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060426NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060425NF" style="display:block">
+     B.Tech II YEAR II SEM SPECIAL SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060424NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060423NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060422NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in March-2023
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051033" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060421NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B20) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060420NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060419NF" style="display:block">
+     B.Tech II YEAR I SEM SPECIAL SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060418NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060417NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060416NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in March-2023
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051032" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in March-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060412NF" style="display:block">
+     B.Tech III YEAR I SEM Minor Course (Regular) EXAMINATIONS  (R18/B20) held in January-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060411NF" style="display:block">
+     M.Tech. II YEAR I SEM Regular Examinations (R18/B21) held in February-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060410NF" style="display:block">
+     B.Tech III YEAR I SEM Regular EXAMINATIONS  (R18/B20) held in January-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060409NF" style="display:block">
+     M.Tech. II YEAR I SEM Supplementary Examinations (R18/B20) held in February-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060408NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in January-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060407NF" style="display:block">
+     B.Tech III YEAR I SEM  SPECIAL SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in January-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060406NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in January-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060405NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in January-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060404NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in January-2023
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051031" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in January-2023
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060403NF" style="display:block">
+     B.Tech IV YEAR I SEM  Special Supplementary Examinations (R18/B18) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060402NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R15/B17) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060401NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R15/B16) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060400NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R15/B15) held in December-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051030" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R12/B14) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060399NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R18/B19) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060398NF" style="display:block">
+     B.Tech III YEAR II SEM Special Supplementary Examinations (R18/B18) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060397NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B17) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060396NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B16) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060395NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B15) held in December-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051029" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R12/B13) held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060394NF" style="display:block">
+     B.Tech IV YEAR I SEM Regular Examinations  (R18/B19)  held in December-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060393NF" style="display:block">
+     B.Tech I Year II Semester (R18 - B20 Transfer/Readmitted) Supplementary Examinations held in October, 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060392NF" style="display:block">
+     B.Tech I Year I Semester (R18 - B20 Transfer Students) Supplementary Examinations held in October, 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060391NF" style="display:block">
+     M.Tech. I YEAR II SEM Regular Examinations  (R18/B21) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060390NF" style="display:block">
+     B.Tech I YEAR II SEM Regular Examinations  (R18/B21) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060389NF" style="display:block">
+     M.Tech. II YEAR I SEM Supplementary Examinations (R18/B20) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060388NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B20) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060387NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B21) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060386NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B20) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060385NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B19) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060384NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B20) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060383NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060382NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060381NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060380NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060379NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in october-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051028" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in october-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051027" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in october-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051026" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in october-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060378NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B21) held in octber-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060377NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B20) held in octber-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060376NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in octber-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060375NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in octber-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060374NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in octber-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060373NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in octber-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051025" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in octber-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060372NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060371NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060370NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060369NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060368NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051024" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051023" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060367NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B20) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060366NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060365NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060364NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060363NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060362NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051022" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051021" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060361NF" style="display:block">
+     B.Tech II YEAR II SEM Regular Examinations  (R18/B20) held in AUGUST-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060360NF" style="display:block">
+     B.Tech IV YEAR II SEM Supplementary Examinations (R18/B18) Held in August-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060359NF" style="display:block">
+     B.Tech IV YEAR II SEM Supplementary Examinations (R15/B17) Held in August-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060358NF" style="display:block">
+     B.Tech IV YEAR II SEM Supplementary Examinations (R15/B16) Held in August-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060357NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060356NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060355NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060354NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in July 2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051020" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in July 2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051019" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060353NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060352NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060351NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060350NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060349NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in July 2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051018" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in July 2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051017" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in July 2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060348NF" style="display:block">
+     B.Tech III YEAR II SEM Regular Examinations  (R18/B19) Held in July-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060347NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B20) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060346NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B20) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060345NF" style="display:block">
+     M.Tech. II YEAR I SEM Supplementary Examinations (R18/B19) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060344NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B19) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060343NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B19) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060342NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15/B17) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060341NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15/B17) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060340NF" style="display:block">
+     B.Tech I Year I Semester (R18-B20 Transfer Students) Supplementary Examinations held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060339NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B20) held May-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060338NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B19) held May-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060337NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B18) held May-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060336NF" style="display:block">
+     M.Tech. II YEAR I SEM MAIN Examinations  (R18/B20) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060335NF" style="display:block">
+     M.Tech. I YEAR I SEM MAIN Examinations  (R18/B21) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060334NF" style="display:block">
+     B.Tech I YEAR I SEM MAIN Examinations  (R18/B21) held in MAY-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051016" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in JUNE-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051015" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in JUNE-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060333NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in JUNE-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060332NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in JUNE-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060331NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in JUNE-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060330NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in JUNE-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051014" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060329NF" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060328NF" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060327NF" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060326NF" style="display:block">
+     B.Tech IV YEAR II SEM Main Examinations (R18/B18) held in MAY-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060325NF" style="display:block">
+     B.Tech II YEAR II SEM (Re-admitted-R18) Supplementary Examinations - March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060324NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060323NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in March-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051013" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in March-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051012" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060322NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B20) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060321NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060320NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060319NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060318NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060317NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in March-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051011" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060316NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060315NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060314NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060313NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060312NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in March-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051010" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060311NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060310NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060309NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060308NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060307NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060306NF" style="display:block">
+     B.Tech II YEAR I SEM Main Examinations (R18/B20) held in March-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060305NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R15/B15) held in February-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060304NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R15/B16) held in February-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060303NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R15/B17) held in February-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060302NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R18/B18) held in February-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060301NF" style="display:block">
+     B.Tech III YEAR I SEM Main Examinations  (R18/B19) held  in February-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060300NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B19) held in December-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060299NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15/B16) held in December-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060298NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B20) held in December-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060297NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B19) held in December-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060296NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B18) held in December-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060295NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060294NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060293NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in January-2022
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051009" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060292NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B17) held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060291NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B16) held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060290NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B15) held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060289NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R18/B18) held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060288NF" style="display:block">
+     M.Tech. I YEAR II SEM MAIN Examinations  (R18/B20) held in December-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060287NF" style="display:block">
+     B.Tech IV YEAR I SEM MAIN Examinations  (R18/B18)  held in January-2022
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060286NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B20)  held in November-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060285NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B19)  held in November-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060284NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B18)  held in November-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060283NF" style="display:block">
+     B.Tech I YEAR II SEM (R18/B19) ( Transfer Candidates) Supplementary Examinations -October-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060282NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R18/B19) held in October-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060281NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R18/B18) held in October-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060280NF" style="display:block">
+     B.Tech I YEAR II SEM Main Examinations  (R18/B20) held in October-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060279NF" style="display:block">
+     B.Tech II YEAR II SEM Main Examinations  (R18/B19) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060278NF" style="display:block">
+     B.Tech II YEAR II SEM (Re-admitted-R18) Supplementary Examinations held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060277NF" style="display:block">
+     B.Tech II YEAR II SEM (Re-admitted-R15) Supplementary Examinations held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060276NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060275NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060274NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060273NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in August-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051008" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060272NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060271NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060270NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060269NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060268NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051007" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051006" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060267NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060266NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060265NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051005" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051004" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051003" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) hels in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060264NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060263NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060262NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051002" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051001" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in September-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x051000" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in September-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060261NF" style="display:block">
+     M.Tech. II YEAR I SEM Supplementary Examinations (R18/B19) held in August 2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060260NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B19) held in August 2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060259NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18/B18) held in August 2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060258NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15/B17) held in August 2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060257NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B19) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060256NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B18) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060255NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15/B17) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060253NF" style="display:block">
+     B.Tech III YEAR II SEM Main Examinations (R18/B18) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060254NF" style="display:block">
+     M.Tech. I YEAR I SEM Main Examinations (R18/B20) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060252NF" style="display:block">
+     B.Tech I YEAR I SEM Main Examinations(R18/B20) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060251NF" style="display:block">
+     B.Tech I YEAR I SEM (R18/B19) ( Transfer Candidates) Supplementary Examinations - July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060250NF" style="display:block">
+     B.Tech IV YEAR II SEM Advanced Supplementary Examinations (R15/B17) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060249NF" style="display:block">
+     B.Tech IV YEAR II SEM Advanced Supplementary Examinations (R15/B15) held in August-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060248NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B19) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060247NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B18) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060246NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R18/B18) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060245NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R15/B17) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060244NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R15/B16) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060243NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R15/B15) held in July-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050999" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R12/B13) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060242NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B17) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060241NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B16) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060240NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R15/B15) held in July-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050998" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations (R12/B13) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060239NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R15/B17) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060238NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R15/B16) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060237NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R15/B15) held in July-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050997" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R12/B14) held in July-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050996" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R12/B13) held in July-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050995" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R12/B12) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060236NF" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060235NF" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in July-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050994" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in July-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050993" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060234NF" style="display:block">
+     B.Tech IV YEAR II SEM Main Examinations  (R15/B17) held in July-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060233NF" style="display:block">
+     Re-Admitted B.Tech II Year II Sem Supplymentary Examinations ( R15 )held in March, 2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060232NF" style="display:block">
+     Re-Admitted B.Tech I Year II Sem Supplymentary Examinations ( R15 ) held in March, 2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060231NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060230NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060229NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060228NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050992" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050991" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060227NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060226NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060225NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060224NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050990" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050989" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060223NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B19) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060222NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060221NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060220NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060219NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050988" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060218NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060217NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060216NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050987" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050986" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060215NF" style="display:block">
+     B.Tech II YEAR I SEM MAIN Examinations  (R18-B19) held in MARCH-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060214NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17)  held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060213NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16)  held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060212NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15)  held in February-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050985" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060211NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060210NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060209NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in February-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050984" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060208NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060207NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15 held in February-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050983" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in February-2021
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050982" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060206NF" style="display:block">
+     B.Tech IV YEAR I SEM Main Examinations  (R15-B17) held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060205NF" style="display:block">
+     B.Tech III YEAR I SEM Main Examinations  (R18-B18) held in February-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060204NF" style="display:block">
+     PHD Course Work R18-19 Batch Examinations  - November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060203NF" style="display:block">
+     B.Tech II YEAR II SEM (R18/B18) (Additional Subjects) Main Examinations  - November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060202NF" style="display:block">
+     B.Tech II YEAR II SEM Main Examinations  (R18-B18) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060201NF" style="display:block">
+     M.Tech. II YEAR I SEM Supplementary Examinations (R18-B18) held in January-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060199NF" style="display:block">
+     M.Tech II YEAR I SEM Main Examinations  (R18-B19) held in January-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060198NF" style="display:block">
+     B.Tech I YEAR II SEM Main Examinations  (R18) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060197NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations  (R18/B18) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060196NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations  (R15/B17) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060195NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations  (R15/B16) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060194NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations  (R15/B15) held in December-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050981" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in December-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050980" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in December-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050979" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060193NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations  (R18/B19) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060192NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations  (R18/B18) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060191NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations  (R15/B17) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060190NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations  (R15/B16) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060189NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations  (R15/B15) held in December-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050978" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in December-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050977" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in December-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050976" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060188NF" style="display:block">
+     B.Tech II YEAR I SEM Supplementary Examinations  (R18/B18) held in January-2021
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060187NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060186NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060185NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050975" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050974" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050973" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060184NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060183NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060182NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050972" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050971" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060181NF" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R15-B16) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060180NF" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R15-B15) held in December-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050970" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R12-B14) held in December-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060179NF" style="display:block">
+     B.Tech III YEAR II SEM Main Examinations  (R15-B17) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060178NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18-B18) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060177NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15-B17) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060176NF" style="display:block">
+     M.Tech. I YEAR II SEM Main Examinations  (R18-B19) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060175NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060174NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060173NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050969" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050968" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060172NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations  (R15/B16) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060171NF" style="display:block">
+     B.Tech III YEAR II SEM Supplementary Examinations  (R15/B15) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050967" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in November-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050966" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in November-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060170NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations  (R15/B16)  held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060169NF" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations  (R15/B15)  held in October-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050965" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)  held in October-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050964" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)  held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060168NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18-B19) held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060167NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18-B18) held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060166NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15-B17) held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060165NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15-B16) held in October-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050963" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060164NF" style="display:block">
+     B.Tech IV YEAR II SEM Supplementary Examinations (R15/B15) held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060163NF" style="display:block">
+     B.Tech IV YEAR II SEM  Main (offline) Examinations  (R15-B16) held in October-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060162NF" style="display:block">
+     Readmitted/Transfer case B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15) held in SEPTEMBER 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060161NF" style="display:block">
+     Readmitted/Transfer case B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15) held in AUGUST 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060160NF" style="display:block">
+     Readmitted/Transfer case B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15) held in JULY 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060159NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in September 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060158NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in September 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060157NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in September 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050962" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in September 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050961" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in September 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050960" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in September 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060156NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in September 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060155NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in September 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060154NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in September 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050959" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in September 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050958" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in September 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050957" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in September 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060153NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in August 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060152NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in August 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060151NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in August 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050956" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in August 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050955" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in August 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050954" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in August 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060150NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in JULY 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060149NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in JULY 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060148NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in JULY 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050953" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in JULY 2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050952" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in JULY 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060147NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17)  held in JULY-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060146NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16)  held in JULY-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060145NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15)  held in JULY-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050951" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)  held in JULY-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050950" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  held in JULY-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060144NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060143NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050949" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050948" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060142NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060141NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050947" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050946" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050945" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060140NF" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050944" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050943" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050942" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in AUGUST-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060139NF" style="display:block">
+     B.Tech IV YEAR II SEM Main Examinations  (R15-B16) held in August-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060138NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R18-B18) held in February-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060137NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15/R16-B17) held in February-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060136NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15/R16-B16) held in February-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060135NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18-B18) held in February-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060134NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15/R16-B17) held in February-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060133NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15/R16-B16) held in February-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060132NF" style="display:block">
+     M.Tech. I YEAR I SEM MAIN Examinations  (R18-Batch19) Held in February-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060131NF" style="display:block">
+     Readmitted-B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B14), December 2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060130NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (readmitted-transfer-case) held in January- 2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060129NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060128NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060127NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060126NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in January-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050941" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in January-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050940" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in January-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050939" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060125NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R18/B18) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060124NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060123NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060122NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in January-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050938" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in January-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050937" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in January-2020
+    </a>
+    <br/>
+    <a href="result.php?resid=bt12e46x050936" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=bt12e46x060121NF" style="display:block">
+     B.Tech I YEAR I SEM MAIN Examinations  (R18-B19) held in January-2020
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060120NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060119NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060118NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in December-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050935" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in December-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050934" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in December-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050933" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060117NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060116NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060115NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in December-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050932" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in December-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050931" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in December-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050930" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060114NF" style="display:block">
+     B.Tech II YEAR I SEM Main Examinations  (R18) held in DECEMBER-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060110NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held In November-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050929" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held In November-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050928" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held In November-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050927" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) Held In November-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060109NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) Held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060108NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in December-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050926" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in December-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060107NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) Held in November-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060106NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in November-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050925" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in November-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050924" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in November-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050923" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) Held in November-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060113NF" style="display:block">
+     M.Tech II YEAR I SEM Main Examinations  (R18/B18) Held in November-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060112NF" style="display:block">
+     B.Tech IV YEAR I SEM Main Examinations  (R15/B16) Held in November-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060111NF" style="display:block">
+     B.Tech III YEAR I SEM Main Examinations  (R15/B17) Held in November-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050922" style="display:block">
+     B.Tech I Year (R11-B11 ) Supplementary, Exams held in July,2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060105NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15-readmitted-transfer) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060104NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15-readmitted-transfer) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060103NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R18/B18) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060102NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15,R16/B17)  held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060101NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations  (R15,R16/B17)  held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060100NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15,R16/B16)  held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060099NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations  (R15,R16/B16)  held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060098NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15/B17) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060097NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15/B16) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060096NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15/B15) held in JULY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050921" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R12/B14) held in JULY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050920" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R12/B13) held in JULY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050919" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R12/B12) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060095NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R18/B18) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060094NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B17) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060093NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B16) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060092NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B15) held in JULY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050918" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R12/B14) held in JULY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050917" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R12/B13) held in JULY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050916" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R12/B12) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060091NF" style="display:block">
+     M.Tech I YEAR II SEM  Main Examinations  (R18/B18) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060090NF" style="display:block">
+     B.Tech I YEAR II SEM  Main Examinations  (R18/B18) held in JULY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060089NF" style="display:block">
+     B.Tech II Year II Sem (R15-B14 ) Supplementary Exams held in June, 2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050915" style="display:block">
+     B.Tech III Year I Semester (R11-B11 ) Supplementary, Exams held in June, 2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050914" style="display:block">
+     B.Tech II Year I Semester (R11-B11 ) Supplementary, Exams held in June, 2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060088NF" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050913" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS (R12/B14) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050912" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS (R12/B13) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060087NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060086NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060085NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050911" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050910" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050909" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060084NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060083NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050908" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050907" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050906" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060082NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060081NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050905" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050904" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) held in June-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050903" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) held in June-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060080NF" style="display:block">
+     B.Tech II YEAR II SEM Main Examinations  (R15-B17) Held in JUNE-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060079NF" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in May-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050902" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in May-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050901" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in May-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x0508900" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) Held in May-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060078NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15)  Held in April-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050899" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)  
+Held in April-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050898" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  Held in April-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050897" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in April-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050896" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in April-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060077NF" style="display:block">
+     B.Tech III YEAR II SEM Main Examinations  (R15-B16) Held in April-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060076NF" style="display:block">
+     B.Tech IV YEAR II SEM Main Examinations  (R15-B15) Held in April-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050895" style="display:block">
+     Results of B.Tech I Year (R11-B11 ) Supplementary, Exams held in  January-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060075NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15-Readmitted/Transfer), January- 2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060074NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17-Readmitted/Transfer), January- 2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060073NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15,R16/B17) Held in January-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060072NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15,R16/B16)Held in January-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060071NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15,R16/B17) Held in January-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060070NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15,R16/B16) Held in January-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060069NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060068NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060067NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050894" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050893" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050892" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060066NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B17) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060065NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060064NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050891" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050890" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050889" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD in JANUARY-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060063NF" style="display:block">
+     M.Tech. I YEAR I SEM Main Examinations  (R18) held in January-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060062NF" style="display:block">
+     B.Tech I YEAR I SEM Main Examinations  (R18) held in January-2019
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060061NF" style="display:block">
+     M.Tech II YEAR I SEM MAIN EXAMINATIONS  (17-BATCH) HELD IN JANUARY 2019
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050888" style="display:block">
+     Results of B.Tech III Year I Semester (R11-B11 ) Supplementary, Exams held in December, 2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050887" style="display:block">
+     Results of B.Tech II Year -II Semester (R11-B11 ) Supplementary, Exams held in December, 2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050886" style="display:block">
+     Results of B.Tech II Year I Semester (R11-B11 ) Supplementary, Exams held in December, 2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060060NF
+
+" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (Readmitted students-B14) Held in December-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060059NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) Held in December-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060058NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050885" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050884" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050883" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) Held in December-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060057NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) Held in December-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060056NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050882" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050881" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050880" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)Held in December-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060055NF" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050879" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050878" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050877" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) Held in December-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060054NF" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050876" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) Held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050875" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) Held in December-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060053NF" style="display:block">
+     B.Tech II YEAR I SEM Main Examinations  (R15/B17)   held in December-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050874" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R12-B14) held in November-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050873" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R12-B13) held in November-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050872" style="display:block">
+     B.Tech IV YEAR I SEM Supplementary Examinations (R12-B12) held in November-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060052NF" style="display:block">
+     B.Tech III YEAR I SEM Main Examinations  (R15/B16)   held in November-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060051NF" style="display:block">
+     B.Tech IV YEAR I SEM Main Examinations  (R15/B15)   held in November-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050837" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R13/B14) held in AUGUST-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060050NF" style="display:block">
+     M.Tech. I YEAR II SEM MAIN Examinations  (R15-B17) HELD IN AUGUST-2018( Date:29/09/2018)
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060049NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15-B17) HELD IN AUGUST-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060048NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15-B16) HELD IN AUGUST-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060047NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15-B16) HELD IN AUGUST-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060046NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15-TRANSFER-CASE) held in June-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060045NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15-TRANSFER-CASE) held in JuLY-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060044NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15/B16) held in June-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060043NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15/B15) held in June-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060042NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B17) held in July-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060041NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B16) held in July-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060040NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B15) held in July-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050871" style="display:block">
+     11 BATCH I YEAR SUPPLEMENTARY EXAMINATIONS HELD IN JULY 2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050870" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050869" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050868" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050867" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JULY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050866" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JULY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050865" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JULY-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060039NF" style="display:block">
+     B.Tech II YEAR II SEM Supplementary Examinations (R15/B15) Held in June-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060038NF" style="display:block">
+     B.Tech I YEAR II SEM Main Examinations  (R15/B17)   Held in June-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060037NF" style="display:block">
+     B.Tech II YEAR II SEM Main Examinations  (R15/B16)   Held in June-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060036NF" style="display:block">
+     B.Tech II YEAR I SEM Supplementary Examinations (R15-B16)  Held in JUNE-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060035NF" style="display:block">
+     B.Tech II YEAR I SEM Supplementary Examinations (R15-B15)  Held in JUNE-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060034NF" style="display:block">
+     B.Tech III YEAR I SEM Supplementary Examinations (R15-B15)  Held in JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050864" style="display:block">
+     Results of B.Tech II Year I Semester (R11-B11 ) Supplementary, Exams held in June, 2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050863" style="display:block">
+     Results of B.Tech II Year -II Semester (R11-B11 ) Supplementary, Exams held in June 2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050862" style="display:block">
+     Results of B.Tech III Year I Semester (R11-B11 ) Supplementary, Exams held in June, 2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050861" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050860" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050859" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050858" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050857" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050856" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050855" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050854" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050853" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050852" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R12-B13) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050851" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R12-B14) HELD IN JUNE-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050850" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)  HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050849" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050848" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)  HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050847" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)  HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050846" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050845" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)  HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050844" style="display:block">
+     B.Tech IV YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060033NF" style="display:block">
+     B.Tech III YEAR II SEM MAIN Examinations  (R15/B15)  HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050843" style="display:block">
+     B.Tech IV YEAR II SEM MAIN EXAMINATIONS  (R12/B14) HELD IN APRIL-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050852" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R13/B14) held in FEBRUARY 2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060031NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15/B16) held in FEBRUARY 2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060030NF" style="display:block">
+     M.Tech. I YEAR I SEM Supplementary Examinations (R15/B16) held in FEBRUARY 2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060029NF" style="display:block">
+     M.Tech. I YEAR I SEM MAIN Examinations  (R15/B17) held in FEBRUARY 2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050834" style="display:block">
+     B.Tech III Year I Semester (R11-B11 ) Supplementary, Exams held in December-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050833" style="display:block">
+     B.Tech II Year -II Semester (R11-B11 ) Supplementary, Exams held in January-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050832" style="display:block">
+     B.Tech II Year I Semester (R11-B11 ) Supplementary, Exams held in December-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050831" style="display:block">
+     B.Tech I Year (R11-B11 ) Supplementary, Exams held in  January-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050830" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)  HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050829" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050828" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050827" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050826" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050825" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060028NF" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050824" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050823" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050822" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060027NF" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050821" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050820" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050819" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060026NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060025NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050818" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050817" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050816" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JANUARY-2018
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060024NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B16) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060023NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050815" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050814" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050813" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER-2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060022NF" style="display:block">
+     B.Tech II YEAR I SEM MAIN Examinations  (R15-B16) held in DECEMBER-2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060021NF" style="display:block">
+     B.Tech I YEAR I SEM MAIN Examinations  (R15-B17) held in DECEMBER-2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060020NF" style="display:block">
+     B.Tech III YEAR I SEM MAIN Examinations  (R15/B15) HELD IN NOVEMBER 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050812" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  HELD IN NOVEMBER 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050811" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)  HELD IN NOVEMBER 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050810" style="display:block">
+     B.Tech IV YEAR I SEM MAIN Examinations  (R12/B14) HELD IN NOVEMBER 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050851" style="display:block">
+     Results of M.Tech R13-B4 I-II sem supplementary held in August 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050850" style="display:block">
+     Resutls of M.Tech R13-B13 I-II sem supplementary held in August 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060019NF" style="display:block">
+     M.Tech. I YEAR I SEM SUPPLEMENTARY Examinations  (B16) HELD IN AUGUST 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060018NF" style="display:block">
+     M.Tech. I YEAR II SEM MAIN Examinations  (B16) HELD IN AUGUST 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050809" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050808" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050807" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050806" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050805" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050804" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050803" style="display:block">
+     Results of B.Tech I Year (R11-B11 ) Supplementary, Exams held in  July 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060016NF" style="display:block">
+     B.Tech I YEAR II SEM Supplementary Examinations (R15/B15) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060015NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B16) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060014NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15/B15) HELD IN JULY 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060017NF" style="display:block">
+     B.Tech I YEAR II SEM Main Examinations  (R15/B16) Held in July 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050802" style="display:block">
+     B.Tech III Year I Semester (R11-B11 ) Supplementary, Exams held in June, 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050801" style="display:block">
+     B.Tech II Year -II Semester (R11-B11 ) Supplementary, Exams held in June 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050800" style="display:block">
+     B.Tech II Year I Semester (R11-B11 ) Supplementary, Exams held in June, 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050799" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050798" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050797" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050796" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050795" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050794" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050793" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060013NF" style="display:block">
+     B.Tech II YEAR I SEM Supplementary Examinations (R15/B15) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060012NF" style="display:block">
+     B.Tech II YEAR II SEM MAIN Examinations  (R15/B15) HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050792" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)  HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050791" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)  HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050790" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)  HELD IN JUNE 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050789" style="display:block">
+     B.Tech III YEAR II SEM MAIN EXAMINATIONS  (R12/B14) RESULTS APRIL-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050788" style="display:block">
+     B.Tech IV YEAR II SEM MAIN EXAMINATIONS  (R12/B13) RESULTS APRIL-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050787" style="display:block">
+     B.Tech IV Year -I Semester (R11-B11 ) Supplementary, Exams held in May, 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050786" style="display:block">
+     B.Tech III Year -II Semester (R11-B11 ) Supplementary, Exams held in April, 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050785" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) RESULTS MAY-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050784" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) RESULTS APRIL-201
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050783" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) RESULTS MAY-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050782" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) RESULTS APRIL-2017
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050849" style="display:block">
+     M.Tech. (R13-B14)  I Year -II Semester Supplementary held in February, 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050848" style="display:block">
+     M.Tech. (R13-B13) I Year -II Semester Supplementary held in February, 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060011NF" style="display:block">
+     M.Tech. I YEAR II SEM Supplementary Examinations (R15-BATCH-15) February 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060010NF" style="display:block">
+     M.Tech. I YEAR I SEM Main Examinations  (R15 AND R16-BATCH-16) February 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050781" style="display:block">
+     B.Tech III Year II Semester (R11-B11 ) Supplementary, Exams held in November/December, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050780" style="display:block">
+     B.Tech II Year -II Semester (R11-B11 ) Supplementary, Exams held in Dec 2016 / Jan 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050779" style="display:block">
+     B.Tech II Year I Semester (R11-B11 ) Supplementary, Exams held in December, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050778" style="display:block">
+     B.Tech I Year (R11-B11 ) Supplementary, Exams held in Dec 2016 / Jan 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050777" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050776" style="display:block">
+     B.Tech III YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050775" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050774" style="display:block">
+     B.Tech III YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050773" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JANUARY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050772" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JANUARY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050771" style="display:block">
+     B.Tech II YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JANUARY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050770" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050769" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050768" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060009NF" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD IN JANUARY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050767" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN JANUARY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050766" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN JANUARY 2017
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050765" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN JANUARY 2017
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060008NF" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R15/B15) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050764" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050763" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050762" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060007NF" style="display:block">
+     B.Tech II YEAR I SEM MAIN Examinations (R15-B15) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060006NF" style="display:block">
+     B.Tech I YEAR I SEM MAIN Examinations (R15-B16) HELD IN DECEMBER 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050760" style="display:block">
+     B.Tech(R12-B14) III Year I Semester Main Examinations,  November - 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050761" style="display:block">
+     B.Tech(R12-B13) IV Year I Semester Main Examinations,  November - 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050759" style="display:block">
+     B.Tech IV YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)  held in November - 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050758" style="display:block">
+     B.Tech IV Year -I Semester (R11-B11 ) Supplementary, Exams held in November - 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050847" style="display:block">
+     M.Tech I Year  II Semester (R13-B14 ) Supplementary, Exams held in September, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050846" style="display:block">
+     M.Tech I Year  I Semester (R13-B14 ) Supplementary, Exams held in September, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050845" style="display:block">
+     M.Tech I Year  II Semester (R13-B13 ) Supplementary, Exams held in September, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050844" style="display:block">
+     M.Tech I Year  I Semester (R13-B13 ) Supplementary, Exams held in September, 2016
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060005NF" style="display:block">
+     M.Tech I YEAR I SEM (R15) SUPPLEMENTARY EXAM HELD IN SEPTEMBER 2016
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060004NF" style="display:block">
+     M.Tech I YEAR II SEM (R15) Main EXAM HELD IN SEPTEMBER 2016
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060003NF" style="display:block">
+     B.Tech I YEAR I SEM Supplementary Examinations (R15)
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060002NF" style="display:block">
+     B.Tech I YEAR II SEM Regular Examinations  (R15)   July 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050757" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14) JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050756" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050755" style="display:block">
+     B.Tech I YEAR II SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12) JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050754" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050753" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050752" style="display:block">
+     B.Tech I YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050751" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B14)
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050750" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B13)
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050749" style="display:block">
+     B.Tech II YEAR I SEM SUPPLEMENTARY EXAMINATIONS  (R12/B12)
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050748" style="display:block">
+     B.Tech II Year II Sem (R12-B13 ) Supplementary, Exams held in JUNE, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050747" style="display:block">
+     B.Tech II Year II Sem (R12-B12 ) Supplementary, Exams held in JUNE, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050746" style="display:block">
+     B.Tech IV YEAR II SEM ADVANCED SUPPLEMENTARY EXAMINATIONS  (R12-B12)JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050745" style="display:block">
+     B.Tech II YEAR II SEM MAIN EXAMINATIONS  (R12-B14) JUNE 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050744" style="display:block">
+     B.Tech III Year I Sem (R12-B13) Supplementary - April, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050743" style="display:block">
+     B.Tech III Year I Sem (R12-B12) Supplementary - April, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050742" style="display:block">
+     B.TECH (R12-B12) IV YEAR I SEM SUPLEMENTARY EXAMINATIONS ,APRIL/MAY -2016 RESULT
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050741" style="display:block">
+     B.TECH (R12-B12) III YEAR II SEM SUPLEMENTARY EXAMINATIONS ,APRIL/MAY -2016 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050740" style="display:block">
+     B.TECH (R12-B13) III YEAR II SEM MAIN EXAMINATIONS ,APRIL/MAY -2016 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050739" style="display:block">
+     B.Tech IV Year  II Semester (R11-B11 ) Supplementary, Exams held in May, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050738" style="display:block">
+     B.Tech IV Year  I Semester (R11-B11 ) Supplementary, Exams held in May, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050737" style="display:block">
+     B.Tech III Year  II Semester (R11-B11 ) Supplementary, Exams held in May, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050736" style="display:block">
+     B.Tech III Year  I Semester (R11-B11 ) Supplementary, Exams held in April, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050735" style="display:block">
+     B.Tech II Year II Semester (R11-B11 ) Supplementary, Exams held in April, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050734" style="display:block">
+     B.Tech II Year I Semester (R11-B11 ) Supplementary, Exams held in April, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050733" style="display:block">
+     B.Tech I Year (R11-B11 ) Supplementary, Exams held in April, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH42MAINAPRIL2016" style="display:block">
+     B.TECH (R12) IV YEAR II SEM MAIN EXAMINATIONS ,APRIL-2016 RESULTS( RC/RV Last date is :04-06-2016 )
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=MTR12e46x060001NF" style="display:block">
+     M.Tech R15 Main Exam - I YEAR I SEM Results (March 2016)
+    </a>
+    <br/>
+    <a href="/cvrresults1/result.php?resid=BT12e46x060000NF" style="display:block">
+     B.TECH I YEAR I SEM R15 JAN-2016 MAIN RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050842" style="display:block">
+     M.Tech I Year  II Sem  (R14 ) Supplementary, Exams held in MARCH, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050841" style="display:block">
+     M.Tech I Year I Sem  (R14 ) Supplementary, Exams held in MARCH, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050840" style="display:block">
+     M.Tech I Year  II Sem  (R13 ) Supplementary, Exams held in MARCH, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050839" style="display:block">
+     M.Tech I Year I Sem  (R13 ) Supplementary, Exams held in MARCH, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050838" style="display:block">
+     M.Tech I Year II Sem (R11 ) Supplementary, Exams held in MARCH, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050843" style="display:block">
+     M.Tech-R14-III Sem Comprehensive Viva-Voce Marks Feb 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B14BTECH12SUPJAN2016" style="display:block">
+     B.Tech-R12-14BATCH-1-2-sem-Sup-Jan 2016 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B14BTECH11SUPJAN2016" style="display:block">
+     B.Tech-R14-1-1-sem-Sup-Result-Dec-2015 &amp; Jan-2016
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1322SUPJAN2016" style="display:block">
+     B.Tech II Year II Sem (R12-B13 ) Supplementary, Exams held in Dec, 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1321SUPJAN2016" style="display:block">
+     B.Tech II Year I Sem (R12-B13 ) Supplementary, Exams held in Dec, 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1312SUPJAN2016" style="display:block">
+     B.Tech I Year II Sem (R12-B13 ) Supplementary, Exams held in Jan, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1311SUPJAN2016" style="display:block">
+     B.Tech I Year I Sem (R12-B13 ) Supplementary, Exams held in Dec, 2015 &amp; Jan, 2016
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1231SUPDEC2015" style="display:block">
+     B.TECH III-I SUPPLY R12 2012 BATCH DEC-2015 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1222SUPDEC2015" style="display:block">
+     B.TECH II-II SUPPLY R12 2012 BATCH DEC-2015 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1221SUPDEC2015" style="display:block">
+     B.TECH II-I SUPPLY R12 2012 BATCH DEC-2015 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1212SUPJAN2016" style="display:block">
+     B.TECH I YEAR II SEM (R12-2012 BATCH) SUPPLE. RESULTS-JAN-2016
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1211SUPJAN2016" style="display:block">
+     B.TECH I YEAR I SEM (R12 - 2012 BATCH) SUPPLE. RESULTS, JAN-2016
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1232SUPNOVDEC15" style="display:block">
+     B.TECH III-II SUPPLY R12  2012 BATCH NOV/DEC-2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B14BTECH21MAINDEC15" style="display:block">
+     B.Tech(R12-B14) II Year I Semester Main Examinations,  December- 2015(Last date for Revaluation and Recounting is : 22/02/2016)
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1331MAINNOV2015" style="display:block">
+     B.Tech(R12) III Year - I Semester Main Examinations held in November- 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1241MAINNOV15" style="display:block">
+     B.Tech (R12) IV Year I Semester Main Examinations, November- 2015 (Last date for Revaluation and Recounting  Date : 25/01/2016)
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050837" style="display:block">
+     M.Tech(R12-2012 Batch). I Year - I Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050836" style="display:block">
+     M.Tech(R13-2013 Batch). I Year - I Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050835" style="display:block">
+     M.Tech(R12-2012 Batch). I Year - II Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050834" style="display:block">
+     M.Tech(R13-2013 Batch). I Year - II Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050833" style="display:block">
+     M.Tech(R13-2014 Batch). I Year - I Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050832" style="display:block">
+     M.Tech(R13 - 2014 Batch) I Year - II Semester Main Examinations Oct-Nov-2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH41OCT2015" style="display:block">
+     B.Tech(R11-2011 Batch). IV Year - I Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH32OCT2015" style="display:block">
+     B.Tech(R11-2011 Batch). III Year - II Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH31OCT2015" style="display:block">
+     B.Tech(R11-2011 Batch). III Year - I Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH22OCT2015" style="display:block">
+     B.Tech(R11-2011 Batch). II Year - II Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH21OCT2015" style="display:block">
+     B.Tech(R11-2011 Batch). II Year - I Semester Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECHIYROCT2015" style="display:block">
+     B.Tech(R11-2011 Batch). I Year - Supplementary Examinations Oct - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B14BTECH11SUPJULY2015" style="display:block">
+     B.Tech(R12-B14) I-I Supplementary Examinations held in July- 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050831" style="display:block">
+     M.Tech R13 B13 II Year I Sem Comprehensive Viva-Voce  Results December 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1321SUPJUNE2015" style="display:block">
+     B.TECH R12 B13 2-1 SUPPLY JUNE 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1312SUPJUNE2015" style="display:block">
+     B.TECH R12 B13 1-2 SUPPLY JUNE 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1311SUPJUNE2015" style="display:block">
+     B.TECH R12 B13 1-1 SUPPLY JNUE-JULY 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1231SUP2015" style="display:block">
+     B.TECH (R12-B12)   3-1 SEMESTER  SUPPLY MAY-JUNE 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1222SUP2015" style="display:block">
+     B.TECH (R12-B12) 2-2 SEMESTER SUPPLY MAY 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1221SUP2015" style="display:block">
+     B.TECH (R12-B12) 2-1 SEMESTER SUPPLY JUNE 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1212SUP2015" style="display:block">
+     B.TECH (R12-B12) 1-2 SEMESTER SUPPLEMENTARYY JUNE-2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1211SUP2015" style="display:block">
+     B.Tech I-I SEMESTER(R12-B12) Supplementary-JUNE 2015 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH22SUP2015" style="display:block">
+     B.Tech(R11) II-II Supplementary Examinations held in May- 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH21SUP2015" style="display:block">
+     B.Tech(R11) II-I Supplementary Examinations held in June- 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECHIYRSUP2015" style="display:block">
+     B.Tech(R11) I YEAR Supplementary Examinations held in June- 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1412MAINJUN2015" style="display:block">
+     B.TECH I YEAR II SEM (R12-B14) MAIN RESULTS, JUNE&amp;JULY 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH42ADVSUP2015" style="display:block">
+     B.Tech (R11) IV-II Advanced Supplementary Examinations held in June- 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH32SUP2015" style="display:block">
+     B.Tech(R11) III-II Supplementary Examinations held in May- 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH31SUP2015" style="display:block">
+     B.Tech(R11) III-I Supplementary Examinations held in June 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1322MAIN2015" style="display:block">
+     R12-B13 2-2 Main Examinations held in May 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH32MAIN2015" style="display:block">
+     B.Tech(R12) III Year - II Semester Main Examinations held in Apr/May - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH41SUP2015" style="display:block">
+     B.Tech(R11) IV-I Supplementary Examinations held in May 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050836" style="display:block">
+     M.Tech. (R13) I Year II Semester (Supplementary) April 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050835" style="display:block">
+     M.Tech. (R13) I Year I Semester (Supplementary) April 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050834" style="display:block">
+     M.Tech. (R12) I Year II Semester (Supplementary) April 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050833" style="display:block">
+     M.Tech. (R12) I Year I Semester (Supplementary) - April 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050832" style="display:block">
+     M.Tech. (R11) I Year II Semester (Supplementary) April-2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050831" style="display:block">
+     M.Tech. (R11) I Year I Semester (Supplementary) April 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=MTR12e46x050830" style="display:block">
+     M. Tech. (R13-B14) I Year I Semester (Regular) April 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH42MAIN" style="display:block">
+     B.Tech(R11) IV Year - II Semester Main Examinations held in Apr/May - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1312SupJan15" style="display:block">
+     R12-B13 I-II Supplementary Examinations held in Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1311SupJan15" style="display:block">
+     R12-B13 I-I Supplementary Examinations held in Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH22SUPDec14" style="display:block">
+     R12 II-II Supplementary Examinations held in Dec 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH21SUPDec14" style="display:block">
+     R12 II-I Supplementary Examinations held in Dec 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH12SUPJan15" style="display:block">
+     R12 I-II Supplementary Examinations held in Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH11SUPJan15" style="display:block">
+     R12 I-I Supplementary Examinations held in Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B14REGFEB15" style="display:block">
+     B.Tech(R12-B14) I Year - I Semester Regular Jan/Feb - 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH32SUPDec14" style="display:block">
+     B.Tech. (R11) III Year II Semester Supplementary Examinations - December 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH31SUPDec14" style="display:block">
+     B.Tech. (R11) III Year I Semester Supplementary Examinations - Dec 2014-Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH22SUPDec14" style="display:block">
+     B.Tech. (R11) II Year II Semester Supplementary Examinations - Dec 2014-Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH21SUPDec14" style="display:block">
+     B.Tech. (R11) II Year I Semester Supplementary Examinations - Dec 2014-Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH1SUPDec14" style="display:block">
+     B.Tech.(R11)  I Year Supplementary Examinations Dec 2014-Jan 2015
+    </a>
+    <br/>
+    <a href="result.php?resid=R12B1321SEMREG" style="display:block">
+     B.Tech(R12)(B13) II Year - I Semester Regular Exams Dec-Jan - 2015 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH31MAIN" style="display:block">
+     B.Tech(R12) III Year - I Semester Main Examinations held in November - 2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH41MAIN" style="display:block">
+     B.Tech(R11) IV Year - I Semester Regular November - 2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECHTRANSFER12SUP" style="display:block">
+     B.Tech(R12) I Year - II Sem Supplementary July 2014 Candidates admitted in IInd Year
+    </a>
+    <br/>
+    <a href="result.php?resid=R11PROJECT" style="display:block">
+     M.Tech (R11) II Year - II Sem Project Work held in Oct 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R13MTECH12MAIN" style="display:block">
+     M.Tech (R13) I Year II Sem Main Examination August-2014	Results
+    </a>
+    <br/>
+    <a href="result.php?resid=MTECHR1311SUP" style="display:block">
+     M.Tech(R13) I Year-I Sem Supplementary August 2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=MTECHR11R1212SUP" style="display:block">
+     M.Tech(R11-R12) I Year-II Sem Supplementary August-2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=MTECHR11R1211SUP" style="display:block">
+     M.Tech(R11-R12) I Year-I Sem Supplementary August-2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECHB1311SUP" style="display:block">
+     B.Tech R12  BATCH 13 I Year I Sem Supplementary JULY-AUG-2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECHIYEARIISEM" style="display:block">
+     B.Tech. R12 (B13) I Year II Semester Main Examination Results - July 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R12MTECH21CIVVA" style="display:block">
+     M.Tech (R12) II Year I Semester Comprehensive Viva Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH21SUP" style="display:block">
+     B.Tech R12  II Year I Sem Supplementary June-2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH12SUP" style="display:block">
+     B.Tech R12  I Year II Sem Supplementary June-2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH11SUP" style="display:block">
+     B.Tech R12  I Year I Sem Supplementary June-2014 Results
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH31SUP" style="display:block">
+     B.TECH R11 III-I  SUPPLEMENTARY MAY-2014 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH22SUP" style="display:block">
+     B.TECH R11 II-II  SUPPLEMENTARY MAY-2014 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH21SUP" style="display:block">
+     B.TECH R11 II-I SUPPLEMENTARY MAY-JUNE-2014 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECHIYRSUP" style="display:block">
+     B.TECH R11 I YEAR SUPPLEMENTARY MAY-JUNE-2014 RESULTS
+    </a>
+    <br/>
+    <a href="result.php?resid=R12BTECH22MAIN1" style="display:block">
+     B.Tech(R12) II Year II Semester Main Results May-June-2014
+    </a>
+    <br/>
+    <a href="result.php?resid=R11BTECH32MAIN" style="display:block">
+     B.Tech.(R11) III Year II Semester Results (Regular) - April/May 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050732" style="display:block">
+     B.Tech.(R12) I Year I Semester Supplementary Results Feb-2014
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050828" style="display:block">
+     M.Tech.(R13) I Year I Semester Main Examination Results Feb/Mar-2014
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050826" style="display:block">
+     M.Tech I Year - II Semester Supplementary Feb/Mar -2014
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050825" style="display:block">
+     M.Tech I Year - I Semester Supplementary Feb/Mar- 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050731" style="display:block">
+     B.Tech. (R13) I Year I Semester Results (Regular) - February 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050730" style="display:block">
+     B.Tech.(R12) I Year II Semester Supplementary Results - January 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050729" style="display:block">
+     B.Tech.(R11) II Year II Semester Supplementary Results - December 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050728" style="display:block">
+     B.Tech.(R11) II Year - I Semester Supplementary Results - December 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050727" style="display:block">
+     B.Tech. (R11) Ist Year Supplementary Results - December 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050727" style="display:block">
+     M.Tech. (R11) II Year II Semester Project Work Results
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050726" style="display:block">
+     M.Tech.(R11) II Year I Semester Comprehensive Viva Results
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050725" style="display:block">
+     B.Tech.(R12) II Year I Semester Results (Regular) - December 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050822" style="display:block">
+     M.Tech. I Year I Semester Results (Supplementary) - January 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050823" style="display:block">
+     M.Tech. (R11) I Year II Semester Results (Supplementary) - January 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050821" style="display:block">
+     M.Tech. (R12) I Year II Semester Results (Regular) - January 2014
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050723" style="display:block">
+     B. Tech.(R11) III Year I Semester Results (Regular) - October/November 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050722" style="display:block">
+     B.Tech.(R12) I Year I Semester Results (Supplementary) - August 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050721" style="display:block">
+     B. Tech.(R12) I Year II Semester Results (Regular) - July 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050720" style="display:block">
+     B.Tech.(R11) I Year Results (Supplementary) - July 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050719" style="display:block">
+     B.Tech.(R11) II Year I Semester Results (Supplementary) - July 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050718" style="display:block">
+     B.Tech.(R11) II Year II Semester Results (Regular) - July 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050820" style="display:block">
+     M.Tech. (R11) I Year I Semester Results (Supplementary) - June 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050817" style="display:block">
+     M.Tech. (R12) I Year I Semester Results (Regular) - June 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050819" style="display:block">
+     M.Tech. (R11) I Year II Semester Results (Supplementary) - June 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050717" style="display:block">
+     B.Tech. I Year I Semester (R12) Results (Regular) - March 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050714" style="display:block">
+     B.Tech. I Year Results (Supplementary) - February 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050813" style="display:block">
+     M.Tech. Results (Supplementary) - February 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=MT12e46x050812" style="display:block">
+     M.Tech. Results (Regular) - February 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050713" style="display:block">
+     B.Tech. II Year I Semester Results - January 2013
+    </a>
+    <br/>
+    <a href="result.php?resid=BT12e46x050712" style="display:block">
+     B.Tech. I Year Results (Regular) - June 2012
+    </a>
+    <br/>
+   </form>
+  </center>
+  <div id="footer">
+   <h3>
+    CVR College of Engineering (Autonomous), 
+      Vastunagar, Mangalpalli(V), Ibrahimpatan - 501510,
+    <br>
+     Ranga Reddy District, Telangana
+    </br>
+   </h3>
+  </div>
+ </body>
+</html>

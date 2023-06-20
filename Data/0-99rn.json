@@ -1,0 +1,4550 @@
+[
+    {
+        "roll_number": "21b81a0501",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0502",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.9",
+            "CGPA": "9.3"
+        }
+    },
+    {
+        "roll_number": "21b81a0503",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.6",
+            "CGPA": "9.28"
+        }
+    },
+    {
+        "roll_number": "21b81a0504",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9",
+            "CGPA": "9.47"
+        }
+    },
+    {
+        "roll_number": "21b81a0505",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.18",
+            "CGPA": "9.48"
+        }
+    },
+    {
+        "roll_number": "21b81a0506",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.05",
+            "CGPA": "8.98"
+        }
+    },
+    {
+        "roll_number": "21b81a0507",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.25",
+            "CGPA": "8.46"
+        }
+    },
+    {
+        "roll_number": "21b81a0508",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.18",
+            "CGPA": "9.38"
+        }
+    },
+    {
+        "roll_number": "21b81a0509",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.53",
+            "CGPA": "8.91"
+        }
+    },
+    {
+        "roll_number": "21b81a0510",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.98",
+            "CGPA": "9.36"
+        }
+    },
+    {
+        "roll_number": "21b81a0511",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.95",
+            "CGPA": "8.36"
+        }
+    },
+    {
+        "roll_number": "21b81a0512",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.55",
+            "CGPA": "8.79"
+        }
+    },
+    {
+        "roll_number": "21b81a0513",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0514",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.88",
+            "CGPA": "8.5"
+        }
+    },
+    {
+        "roll_number": "21b81a0515",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "6.78",
+            "CGPA": "7.46"
+        }
+    },
+    {
+        "roll_number": "21b81a0516",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.8",
+            "CGPA": "8.29"
+        }
+    },
+    {
+        "roll_number": "21b81a0517",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.98",
+            "CGPA": "9.37"
+        }
+    },
+    {
+        "roll_number": "21b81a0518",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.4",
+            "CGPA": "8.78"
+        }
+    },
+    {
+        "roll_number": "21b81a0519",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.75",
+            "CGPA": "8.9"
+        }
+    },
+    {
+        "roll_number": "21b81a0520",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.4",
+            "CGPA": "9.63"
+        }
+    },
+    {
+        "roll_number": "21b81a0521",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.18",
+            "CGPA": "9.28"
+        }
+    },
+    {
+        "roll_number": "21b81a0522",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0523",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.18",
+            "CGPA": "8.69"
+        }
+    },
+    {
+        "roll_number": "21b81a0524",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.6",
+            "CGPA": "9.13"
+        }
+    },
+    {
+        "roll_number": "21b81a0525",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.8",
+            "CGPA": "9.22"
+        }
+    },
+    {
+        "roll_number": "21b81a0526",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.68",
+            "CGPA": "9.09"
+        }
+    },
+    {
+        "roll_number": "21b81a0527",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.43",
+            "CGPA": "8.98"
+        }
+    },
+    {
+        "roll_number": "21b81a0528",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0529",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.6",
+            "CGPA": "7.59"
+        }
+    },
+    {
+        "roll_number": "21b81a0530",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0531",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0532",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0533",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.55",
+            "CGPA": "8.23"
+        }
+    },
+    {
+        "roll_number": "21b81a0534",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0535",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.7",
+            "CGPA": "8.1"
+        }
+    },
+    {
+        "roll_number": "21b81a0536",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.83",
+            "CGPA": "8.98"
+        }
+    },
+    {
+        "roll_number": "21b81a0537",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.53",
+            "CGPA": "8.93"
+        }
+    },
+    {
+        "roll_number": "21b81a0538",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0539",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.8",
+            "CGPA": "8.43"
+        }
+    },
+    {
+        "roll_number": "21b81a0540",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.98",
+            "CGPA": "9.29"
+        }
+    },
+    {
+        "roll_number": "21b81a0541",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0542",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.48",
+            "CGPA": "9.68"
+        }
+    },
+    {
+        "roll_number": "21b81a0543",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "6.95",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0544",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.23",
+            "CGPA": "8.78"
+        }
+    },
+    {
+        "roll_number": "21b81a0545",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0546",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.48",
+            "CGPA": "8.78"
+        }
+    },
+    {
+        "roll_number": "21b81a0547",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0548",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.3",
+            "CGPA": "8.93"
+        }
+    },
+    {
+        "roll_number": "21b81a0549",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0550",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.55",
+            "CGPA": "8.99"
+        }
+    },
+    {
+        "roll_number": "21b81a0551",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0552",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.6",
+            "CGPA": "9.15"
+        }
+    },
+    {
+        "roll_number": "21b81a0553",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0554",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.48",
+            "CGPA": "8.57"
+        }
+    },
+    {
+        "roll_number": "21b81a0555",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.05",
+            "CGPA": "8.05"
+        }
+    },
+    {
+        "roll_number": "21b81a0556",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.58",
+            "CGPA": "9.2"
+        }
+    },
+    {
+        "roll_number": "21b81a0557",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.9",
+            "CGPA": "9.17"
+        }
+    },
+    {
+        "roll_number": "21b81a0558",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0559",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.35",
+            "CGPA": "9.48"
+        }
+    },
+    {
+        "roll_number": "21b81a0560",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "6.75",
+            "CGPA": "6.63"
+        }
+    },
+    {
+        "roll_number": "21b81a0561",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.55",
+            "CGPA": "9.73"
+        }
+    },
+    {
+        "roll_number": "21b81a0562",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.05",
+            "CGPA": "9.1"
+        }
+    },
+    {
+        "roll_number": "21b81a0563",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.18",
+            "CGPA": "9.17"
+        }
+    },
+    {
+        "roll_number": "21b81a0564",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.18",
+            "CGPA": "9.41"
+        }
+    },
+    {
+        "roll_number": "21b81a0565",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0566",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0567",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0568",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.4",
+            "CGPA": "8.49"
+        }
+    },
+    {
+        "roll_number": "21b81a0569",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.2",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0570",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0571",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0572",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.48",
+            "CGPA": "9.01"
+        }
+    },
+    {
+        "roll_number": "21b81a0573",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.75",
+            "CGPA": "9.18"
+        }
+    },
+    {
+        "roll_number": "21b81a0574",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.5",
+            "CGPA": "8.76"
+        }
+    },
+    {
+        "roll_number": "21b81a0575",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0576",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.15",
+            "CGPA": "8.09"
+        }
+    },
+    {
+        "roll_number": "21b81a0577",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "6.55",
+            "CGPA": "8.01"
+        }
+    },
+    {
+        "roll_number": "21b81a0578",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.3",
+            "CGPA": "9.67"
+        }
+    },
+    {
+        "roll_number": "21b81a0579",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0580",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0581",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.3",
+            "CGPA": "9.45"
+        }
+    },
+    {
+        "roll_number": "21b81a0582",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.18",
+            "CGPA": "8.11"
+        }
+    },
+    {
+        "roll_number": "21b81a0583",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.8",
+            "CGPA": "9.14"
+        }
+    },
+    {
+        "roll_number": "21b81a0584",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.73",
+            "CGPA": "8.18"
+        }
+    },
+    {
+        "roll_number": "21b81a0585",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0586",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.4",
+            "CGPA": "8.91"
+        }
+    },
+    {
+        "roll_number": "21b81a0587",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.43",
+            "CGPA": "8.64"
+        }
+    },
+    {
+        "roll_number": "21b81a0588",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0589",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0590",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0591",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.33",
+            "CGPA": "8.63"
+        }
+    },
+    {
+        "roll_number": "21b81a0592",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9.05",
+            "CGPA": "9.39"
+        }
+    },
+    {
+        "roll_number": "21b81a0593",
+        "data": {
+            "WITH HELD": {
+                "grade": "",
+                "result": "",
+                "credits": ""
+            },
+            "SGPA": "",
+            "CGPA": ""
+        }
+    },
+    {
+        "roll_number": "21b81a0594",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.38",
+            "CGPA": "8.75"
+        }
+    },
+    {
+        "roll_number": "21b81a0595",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "9",
+            "CGPA": "9.36"
+        }
+    },
+    {
+        "roll_number": "21b81a0596",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.55",
+            "CGPA": "9.24"
+        }
+    },
+    {
+        "roll_number": "21b81a0597",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "8.75",
+            "CGPA": "9.22"
+        }
+    },
+    {
+        "roll_number": "21b81a0598",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "S",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "B+",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "A+",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "7.33",
+            "CGPA": "8.38"
+        }
+    },
+    {
+        "roll_number": "21b81a0599",
+        "data": {
+            "Object Oriented Programming through Java": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Discrete Structures and Graph Theory": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Boolean Algebra and Circuit Design": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Probability & Statistics": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Basic Electrical & Electronics Engineering": {
+                "grade": "P",
+                "result": "PASS",
+                "credits": "3"
+            },
+            "Object Oriented Programming through Java Lab": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Python Programming Lab": {
+                "grade": "F",
+                "result": "FAIL",
+                "credits": "0"
+            },
+            "Electrical & Electronics Engineering Lab": {
+                "grade": "A",
+                "result": "PASS",
+                "credits": "1.5"
+            },
+            "Verbal Ability Lab": {
+                "grade": "B",
+                "result": "PASS",
+                "credits": "1"
+            },
+            "SGPA": "FAIL",
+            "CGPA": ""
+        }
+    }
+]
